@@ -3,7 +3,7 @@ RandomForest v. 0.0.10
 
 Copyright 2016 Henrik Boström
 
-[http://randomforest.readthedocs.io/en/latest/]
+[http://randomforesttest.readthedocs.io/en/latest/]
 
 A <a href="http://julialang.org/">Julia</a> package that implements random forests for classification, regression and survival analysis with conformal prediction.
 [NOTE: survival analysis under development]
